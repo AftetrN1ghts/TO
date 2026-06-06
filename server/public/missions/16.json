@@ -1,0 +1,8 @@
+			{
+				"prizes": ["Ускорение × 50"],
+                "prizesId": ["nitro"],
+			    "prizesCount": [40],
+				"target_progress": 80,
+				"description": "Собери ящики",
+				"id": "takeBonus"
+			}

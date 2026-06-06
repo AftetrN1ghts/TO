@@ -1,0 +1,8 @@
+			{
+				"prizes": ["Кристаллы × 1800", "Двойной урон × 30"],
+			    "prizesId": ["CRYSTALLS", "double_damage"],
+			    "prizesCount": [600, 10],
+				"target_progress": 3,
+				"description": "Поймай золотой ящик",
+				"id": "takeBonusGold"
+			}

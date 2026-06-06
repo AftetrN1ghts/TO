@@ -1,0 +1,463 @@
+{
+  "name": "Aleks-test",
+  "password": "123123",
+  "score": 1050210,
+  "banTime": 1676740658913,
+  "banReason": "",
+  "battleId": "45458@2042 DM@#3",
+  "rank": 27,
+  "maxRank": 30,
+  "roles": [
+    "owner"
+  ],
+  "block": false,
+  "rating": 1,
+  "crystall": 539779,
+  "place": 0,
+  "rang": 27,
+  "email": "",
+  "mission": {
+    "prizes": [
+      "Кристаллы × 600",
+      "Двойной урон × 10"
+    ],
+    "prizesId": [
+      "CRYSTALLS",
+      "double_damage"
+    ],
+    "prizesCount": [
+      600,
+      10
+    ],
+    "target_progress": 1,
+    "description": "Поймай золотой ящик",
+    "id": "takeBonusGold"
+  },
+  "missionProgress": 1,
+  "mission2": {
+    "prizes": [
+      "Кристаллы × 100"
+    ],
+    "prizesId": [
+      "CRYSTALLS"
+    ],
+    "prizesCount": [
+      100
+    ],
+    "target_progress": 1,
+    "description": "Доставь флаг",
+    "id": "captureTheFlag"
+  },
+  "ip": "26.125.243.72",
+  "missionProgress2": 6,
+  "mission3": {
+    "prizes": [
+      "Кристаллы × 529"
+    ],
+    "prizesId": [
+      "CRYSTALLS"
+    ],
+    "prizesCount": [
+      529
+    ],
+    "target_progress": 100,
+    "description": "Уничтожь танки",
+    "id": "killTank"
+  },
+  "missionProgress3": 23,
+  "missionTime": 1676841225424,
+  "missionCount": 0,
+  "garage": {
+    "items": {
+      "items": [
+        {
+          "id": "smoky",
+          "modificationID": 3
+        },
+        {
+          "id": "green",
+          "modificationID": 0
+        },
+        {
+          "id": "holiday",
+          "modificationID": 0
+        },
+        {
+          "id": "wasp",
+          "modificationID": 3
+        },
+        {
+          "id": "alimia",
+          "modificationID": 0
+        },
+        {
+          "id": "champion",
+          "modificationID": 0
+        },
+        {
+          "id": "flash",
+          "modificationID": 0
+        },
+        {
+          "id": "spectator",
+          "modificationID": 0
+        },
+        {
+          "id": "flame",
+          "modificationID": 0
+        },
+        {
+          "id": "helios",
+          "modificationID": 0
+        },
+        {
+          "id": "tot",
+          "modificationID": 0
+        },
+        {
+          "id": "besthelper",
+          "modificationID": 0
+        },
+        {
+          "id": "tester",
+          "modificationID": 0
+        },
+        {
+          "id": "moderator",
+          "modificationID": 0
+        },
+        {
+          "id": "reporter",
+          "modificationID": 0
+        },
+        {
+          "id": "flow",
+          "modificationID": 0
+        },
+        {
+          "id": "virus",
+          "modificationID": 0
+        },
+        {
+          "id": "acid",
+          "modificationID": 0
+        },
+        {
+          "id": "hunter",
+          "modificationID": 3
+        },
+        {
+          "id": "hornet",
+          "modificationID": 3
+        },
+        {
+          "id": "shaft",
+          "modificationID": 3
+        },
+        {
+          "id": "viking",
+          "modificationID": 3
+        },
+        {
+          "id": "mamont",
+          "modificationID": 3
+        },
+        {
+          "id": "railgun",
+          "modificationID": 3
+        },
+        {
+          "id": "thunder",
+          "modificationID": 3
+        },
+        {
+          "id": "isida",
+          "modificationID": 3
+        },
+        {
+          "id": "ricochet",
+          "modificationID": 3
+        },
+        {
+          "id": "frezee",
+          "modificationID": 3
+        },
+        {
+          "id": "titan",
+          "modificationID": 3
+        },
+        {
+          "id": "dictator",
+          "modificationID": 3
+        },
+        {
+          "id": "twins",
+          "modificationID": 3
+        },
+        {
+          "id": "flamethrower",
+          "modificationID": 3
+        },
+        {
+          "id": "red",
+          "modificationID": 0
+        },
+        {
+          "id": "blue",
+          "modificationID": 0
+        },
+        {
+          "id": "black",
+          "modificationID": 0
+        },
+        {
+          "id": "white",
+          "modificationID": 0
+        },
+        {
+          "id": "flora",
+          "modificationID": 0
+        },
+        {
+          "id": "orange",
+          "modificationID": 0
+        },
+        {
+          "id": "withlove",
+          "modificationID": 0
+        },
+        {
+          "id": "forester",
+          "modificationID": 0
+        },
+        {
+          "id": "metallic",
+          "modificationID": 0
+        },
+        {
+          "id": "lava",
+          "modificationID": 0
+        },
+        {
+          "id": "marine",
+          "modificationID": 0
+        },
+        {
+          "id": "savanna",
+          "modificationID": 0
+        },
+        {
+          "id": "urban",
+          "modificationID": 0
+        },
+        {
+          "id": "barkhan",
+          "modificationID": 0
+        },
+        {
+          "id": "dirt",
+          "modificationID": 0
+        },
+        {
+          "id": "marsh",
+          "modificationID": 0
+        },
+        {
+          "id": "carbon",
+          "modificationID": 0
+        },
+        {
+          "id": "blizzard",
+          "modificationID": 0
+        },
+        {
+          "id": "safari",
+          "modificationID": 0
+        },
+        {
+          "id": "foreign",
+          "modificationID": 0
+        },
+        {
+          "id": "tundra",
+          "modificationID": 0
+        },
+        {
+          "id": "dragon",
+          "modificationID": 0
+        },
+        {
+          "id": "roger",
+          "modificationID": 0
+        },
+        {
+          "id": "digital",
+          "modificationID": 0
+        },
+        {
+          "id": "jaguar",
+          "modificationID": 0
+        },
+        {
+          "id": "electra",
+          "modificationID": 0
+        },
+        {
+          "id": "mary",
+          "modificationID": 0
+        },
+        {
+          "id": "storm",
+          "modificationID": 0
+        },
+        {
+          "id": "clay",
+          "modificationID": 0
+        },
+        {
+          "id": "python",
+          "modificationID": 0
+        },
+        {
+          "id": "spark",
+          "modificationID": 0
+        },
+        {
+          "id": "taiga",
+          "modificationID": 0
+        },
+        {
+          "id": "standstone",
+          "modificationID": 0
+        },
+        {
+          "id": "kedr",
+          "modificationID": 0
+        },
+        {
+          "id": "lead",
+          "modificationID": 0
+        },
+        {
+          "id": "prodigy",
+          "modificationID": 0
+        },
+        {
+          "id": "rock",
+          "modificationID": 0
+        },
+        {
+          "id": "needles",
+          "modificationID": 0
+        },
+        {
+          "id": "irbis",
+          "modificationID": 0
+        },
+        {
+          "id": "tina",
+          "modificationID": 0
+        },
+        {
+          "id": "izumurud",
+          "modificationID": 0
+        },
+        {
+          "id": "inferno",
+          "modificationID": 0
+        },
+        {
+          "id": "rust",
+          "modificationID": 0
+        },
+        {
+          "id": "zeus",
+          "modificationID": 0
+        },
+        {
+          "id": "nefrit",
+          "modificationID": 0
+        },
+        {
+          "id": "rustle",
+          "modificationID": 0
+        },
+        {
+          "id": "khokhloma",
+          "modificationID": 0
+        },
+        {
+          "id": "surf",
+          "modificationID": 0
+        },
+        {
+          "id": "vikingxt",
+          "modificationID": 0
+        },
+        {
+          "id": "hornetxt",
+          "modificationID": 0
+        },
+        {
+          "id": "titanxt",
+          "modificationID": 0
+        },
+        {
+          "id": "hunterhw",
+          "modificationID": 0
+        },
+        {
+          "id": "mamonthw",
+          "modificationID": 0
+        },
+        {
+          "id": "dictatorny",
+          "modificationID": 0
+        },
+        {
+          "id": "ufo",
+          "modificationID": 3
+        },
+        {
+          "id": "smokyxt",
+          "modificationID": 0
+        },
+        {
+          "id": "twinsxt",
+          "modificationID": 0
+        },
+        {
+          "id": "railgunxt",
+          "modificationID": 0
+        },
+        {
+          "id": "flamethrowerhw",
+          "modificationID": 0
+        },
+        {
+          "id": "isidahw",
+          "modificationID": 0
+        },
+        {
+          "id": "hwthunder",
+          "modificationID": 0
+        },
+        {
+          "id": "frezeeny",
+          "modificationID": 0
+        },
+        {
+          "id": "pumpkingun",
+          "modificationID": 3
+        },
+        {
+          "id": "snowman",
+          "modificationID": 0
+        }
+      ]
+    },
+    "mounted_turret": "smokyxt_m0",
+    "mounted_hull": "hornet_m3",
+    "mounted_paint": "green_m0"
+  }
+}

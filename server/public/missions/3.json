@@ -1,0 +1,8 @@
+			{
+				"prizes": ["Аптека × 5"],
+                "prizesId": ["health"],
+			    "prizesCount": [5],
+				"target_progress": 20,
+				"description": "Собери ящики",
+				"id": "takeBonus"
+			}

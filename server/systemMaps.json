@@ -1,0 +1,59 @@
+{
+	"maps": [
+		{
+			"map": "map_boombox",
+			"name": "VERY LOW RANKS + GOLD",
+			"type": "DM",
+			"time": 30,
+			"withoutInventory": true,
+			"numScores": 100,
+			"maxPeople": 12,
+			"minRank": 3,
+			"maxRank": 8
+		},
+		{
+			"map": "map_boombox",
+			"name": "VERY LOW RANKS + RUBY",
+			"type": "DM",
+			"time": 30,
+			"withoutInventory": true,
+			"numScores": 100,
+			"maxPeople": 12,
+			"minRank": 3,
+			"maxRank": 8
+		},
+		{
+			"map": "map_hills",
+			"name": "LOW RANKS + RUBY BOX!",
+			"type": "DM",
+			"time": 20,
+			"numScores": 125,
+			"maxPeople": 24,
+			"minRank": 3,
+			"maxRank": 10
+		},
+		{
+			"map": "map_massacre",
+			"name": "MASSACRE CTF, go go go!!!",
+			"type": "CTF",
+			"time": 60,
+			"numScores": 250,
+			"maxPeople": 6,
+			"minRank": 3,
+			"maxRank": 13
+		},
+		{
+			"map": "map_sandbox",
+			"name": "ХР (3х3)",
+			"type": "CTF",
+			"time": 999,
+			"numScores": 7,
+			"maxPeople": 3,
+			"minRank": 3,
+			"maxRank": 27,
+			"withoutInventory": true,
+			"withBonus": true,
+			"hrMode": true
+		}
+	]
+}

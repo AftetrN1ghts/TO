@@ -1,0 +1,8 @@
+			{
+				"prizes": ["Кристаллы × 529"],
+                "prizesId": ["CRYSTALLS"],
+			    "prizesCount": [529],
+				"target_progress": 100,
+				"description": "Уничтожь танки",
+				"id": "killTank"
+			}

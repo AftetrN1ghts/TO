@@ -1,0 +1,8 @@
+﻿			{
+				"prizes": ["Двойной урон × 12"],
+                "prizesId": ["CRYSTALLS"],
+			    "prizesCount": [12],
+				"target_progress": 550,
+				"description": "Получи очки в режиме CTF",
+				"id": "gainBattleScoresInCTF"
+			}

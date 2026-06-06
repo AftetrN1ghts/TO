@@ -1,0 +1,11 @@
+{
+  "name": "Tanks Server",
+  "version": "0.0.0",
+  "description": "Tanks Server",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "md5-hex": "^3.0.1"
+  }
+}

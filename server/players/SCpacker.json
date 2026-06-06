@@ -1,0 +1,281 @@
+{
+  "name": "SCpacker",
+  "password": "123123123",
+  "score": 1002558,
+  "banTime": 1676824930423,
+  "banReason": "",
+  "battleId": null,
+  "rank": 27,
+  "maxRank": 30,
+  "roles": [
+    "owner"
+  ],
+  "block": false,
+  "rating": 1,
+  "crystall": 320629794,
+  "place": 0,
+  "rang": 27,
+  "email": "",
+  "mission": {
+    "prizes": [
+      "Кристаллы × 1800",
+      "Двойной урон × 30"
+    ],
+    "prizesId": [
+      "CRYSTALLS",
+      "double_damage"
+    ],
+    "prizesCount": [
+      600,
+      10
+    ],
+    "target_progress": 3,
+    "description": "Поймай золотой ящик",
+    "id": "takeBonusGold"
+  },
+  "missionProgress": 99,
+  "mission2": {
+    "prizes": [
+      "Ускорение × 50"
+    ],
+    "prizesId": [
+      "nitro"
+    ],
+    "prizesCount": [
+      40
+    ],
+    "target_progress": 80,
+    "description": "Собери ящики",
+    "id": "takeBonus"
+  },
+  "ip": "127.0.0.1",
+  "missionProgress2": 1047,
+  "mission3": {
+    "prizes": [
+      "Двойной урон × 100"
+    ],
+    "prizesId": [
+      "CRYSTALLS",
+      "double_damage"
+    ],
+    "prizesCount": [
+      100
+    ],
+    "target_progress": 3,
+    "description": "Поймай золотой ящик",
+    "id": "takeBonusGold"
+  },
+  "missionProgress3": 99,
+  "missionTime": 1681937612007,
+  "missionCount": 0,
+  "garage": {
+    "items": {
+      "items": [
+        {
+          "id": "smoky",
+          "modificationID": 1
+        },
+        {
+          "id": "smokyxt",
+          "modificationID": 0
+        },
+        {
+          "id": "green",
+          "modificationID": 0
+        },
+        {
+          "id": "holiday",
+          "modificationID": 0
+        },
+        {
+          "id": "floweringrose",
+          "modificationID": 0
+        },
+        {
+          "id": "wasp",
+          "modificationID": 3
+        },
+        {
+          "id": "carbon",
+          "modificationID": 0
+        },
+        {
+          "id": "thunder",
+          "modificationID": 3
+        },
+        {
+          "id": "flamethrowerhw",
+          "modificationID": 0
+        },
+        {
+          "id": "viking",
+          "modificationID": 3
+        },
+        {
+          "id": "praetorian",
+          "modificationID": 0
+        },
+        {
+          "id": "bfg",
+          "modificationID": 0
+        },
+        {
+          "id": "hornet",
+          "modificationID": 3
+        },
+        {
+          "id": "railgun",
+          "modificationID": 3
+        },
+        {
+          "id": "alimia",
+          "modificationID": 0
+        },
+        {
+          "id": "flow",
+          "modificationID": 0
+        },
+        {
+          "id": "tina",
+          "modificationID": 0
+        },
+        {
+          "id": "spark",
+          "modificationID": 0
+        },
+        {
+          "id": "izumurud",
+          "modificationID": 0
+        },
+        {
+          "id": "zeus",
+          "modificationID": 0
+        },
+        {
+          "id": "inferno",
+          "modificationID": 0
+        },
+        {
+          "id": "shaft",
+          "modificationID": 3
+        },
+        {
+          "id": "flamethrower",
+          "modificationID": 3
+        },
+        {
+          "id": "isida",
+          "modificationID": 1
+        },
+        {
+          "id": "mary",
+          "modificationID": 0
+        },
+        {
+          "id": "ricochet",
+          "modificationID": 3
+        },
+        {
+          "id": "frezee",
+          "modificationID": 3
+        },
+        {
+          "id": "tundra",
+          "modificationID": 0
+        },
+        {
+          "id": "roger",
+          "modificationID": 0
+        },
+        {
+          "id": "dragon",
+          "modificationID": 0
+        },
+        {
+          "id": "foreign",
+          "modificationID": 0
+        },
+        {
+          "id": "blizzard",
+          "modificationID": 0
+        },
+        {
+          "id": "dictator",
+          "modificationID": 3
+        },
+        {
+          "id": "hunter",
+          "modificationID": 2
+        },
+        {
+          "id": "twins",
+          "modificationID": 2
+        },
+        {
+          "id": "withlove",
+          "modificationID": 0
+        },
+        {
+          "id": "metallic",
+          "modificationID": 0
+        },
+        {
+          "id": "savanna",
+          "modificationID": 0
+        },
+        {
+          "id": "rustle",
+          "modificationID": 0
+        },
+        {
+          "id": "surf",
+          "modificationID": 0
+        },
+        {
+          "id": "needles",
+          "modificationID": 0
+        },
+        {
+          "id": "electra",
+          "modificationID": 0
+        },
+        {
+          "id": "rock",
+          "modificationID": 0
+        },
+        {
+          "id": "mamont",
+          "modificationID": 3
+        },
+        {
+          "id": "health",
+          "count": 9999,
+          "modificationID": 0
+        },
+        {
+          "id": "double_damage",
+          "count": 19994,
+          "modificationID": 0
+        },
+        {
+          "id": "armor",
+          "count": 9997,
+          "modificationID": 0
+        },
+        {
+          "id": "mine",
+          "count": 9999,
+          "modificationID": 0
+        },
+        {
+          "id": "n2o",
+          "count": 9999,
+          "modificationID": 0
+        }
+      ]
+    },
+    "mounted_turret": "shaft_m3",
+    "mounted_hull": "wasp_m3",
+    "mounted_paint": "rustle_m0"
+  }
+}

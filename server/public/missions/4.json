@@ -1,0 +1,8 @@
+			{
+				"prizes": ["Кристаллы × 100"],
+                "prizesId": ["CRYSTALLS"],
+			    "prizesCount": [100],
+				"target_progress": 1,
+				"description": "Доставь флаг",
+				"id": "captureTheFlag"
+			}

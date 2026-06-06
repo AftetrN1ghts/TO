@@ -1,0 +1,1 @@
+nodemon server.js -i "players/*" -i "public/*" -i "download_assets/*" --trace-warnings

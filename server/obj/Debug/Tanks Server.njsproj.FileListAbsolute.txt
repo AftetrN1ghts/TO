@@ -1,0 +1,3 @@
+C:\Users\avivs\Documents\MyTanks Server\obj\Debug\Tanks Server.njsprojAssemblyReference.cache
+C:\Users\avivs\Documents\MyTanks Server\obj\Debug\Tanks Server.njsproj.CoreCompileInputs.cache
+C:\Users\avivs\Documents\MyTanks Server\bin\Microsoft.NodejsTools.WebRole.dll
