@@ -1,8 +1,0 @@
-			{
-				"prizes": ["Кристаллы × 500"],
-                "prizesId": ["CRYSTALLS"],
-			    "prizesCount": [500],
-				"target_progress": 1000,
-				"description": "Заработай опыт",
-				"id": "gainScore"
-			}

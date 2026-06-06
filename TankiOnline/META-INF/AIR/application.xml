@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/28.0"> 
+	
+	<id>TankiOnline</id> 
+	<versionNumber>1.0</versionNumber> 
+	<filename>TankiOnline</filename> 
+	
+	<name>Tanki Online</name> 
+	<description></description> 
+	<copyright></copyright> 
+	
+	<initialWindow> 
+		<title>Tanki Online</title> 
+		<content>StandaloneLoader.swf?locale=ru&amp;prelauncher=Prelauncher.swf</content> 
+		<visible>true</visible>
+		<renderMode>direct</renderMode>
+		<depthAndStencil>true</depthAndStencil>
+        <maximizable>false</maximizable>
+	</initialWindow>
+</application>

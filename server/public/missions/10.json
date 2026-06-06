@@ -1,8 +1,0 @@
-			{
-				"prizes": ["Двойная защита × 50"],
-                "prizesId": ["armor"],
-			    "prizesCount": [50],
-				"target_progress": 100,
-				"description": "Собери ящики",
-				"id": "takeBonus"
-			}

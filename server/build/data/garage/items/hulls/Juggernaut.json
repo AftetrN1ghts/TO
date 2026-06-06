@@ -1,0 +1,150 @@
+{
+  "id": "Juggernaut",
+  "index": 23,
+
+  "name": {
+    "en": "Juggernaut",
+    "ru": "Джаггернаут"
+  },
+  "description": {
+    "en": "The Elite Juggernaut is special due to its unique side ornament, resembling the wings of an ancient dragon.",
+    "ru": "Элитный джаггернаут отличается уникальным боковым рисунком, напоминающим сложенные крылья древнего дракона."
+  },
+
+  "baseItemId": 1000006,
+
+  "modifications": {
+    "0": {
+      "previewResourceId": 1000006,
+      "object3ds": 1000010,
+
+      "rank": 1,
+      "price": 50000,
+
+      "properties": [
+        { "property": "HULL_ARMOR", "value": 5000 },
+        { "property": "HULL_SPEED", "value": 16 },
+        { "property": "HULL_TURN_SPEED", "value": 150 },
+        { "property": "HULL_MASS", "value": 5000 },
+        {
+          "property": "HULL_POWER",
+          "properties": [
+            { "property": "HULL_ACCELERATION", "value": 9 }
+          ]
+        }
+      ],
+	  
+      "physics": {
+        "speed": 18.0,
+        "turnSpeed": 2.6179938,
+        "acceleration": 18.0,
+        "reverseAcceleration": 17,
+        "sideAcceleration": 24,
+        "turnAcceleration": 3.4906585,
+        "reverseTurnAcceleration": 6.4577184,
+        "damping": 900,
+        "mass": 2200,
+        "power": 18.0
+      }
+    },
+    "1": {
+      "previewResourceId": 1000007,
+      "object3ds": 1000010,
+
+      "rank": 9,
+      "price": 100000,
+
+      "properties": [
+        { "property": "HULL_ARMOR", "value": 121 },
+        { "property": "HULL_SPEED", "value": 11.50 },
+        { "property": "HULL_TURN_SPEED", "value": 111.7 },
+        { "property": "HULL_MASS", "value": 1638 },
+        {
+          "property": "HULL_POWER",
+          "properties": [
+            { "property": "HULL_ACCELERATION", "value": 10 }
+          ]
+        }
+      ],
+
+      "physics": {
+        "speed": 18.0,
+        "turnSpeed": 2.6179938,
+        "acceleration": 18.0,
+        "reverseAcceleration": 17,
+        "sideAcceleration": 24,
+        "turnAcceleration": 3.4906585,
+        "reverseTurnAcceleration": 6.4577184,
+        "damping": 900,
+        "mass": 2200,
+        "power": 18.0
+      }
+    },
+    "2": {
+      "previewResourceId": 1000008,
+      "object3ds": 1000010,
+
+      "rank": 26,
+      "price": 500000,
+
+      "properties": [
+        { "property": "HULL_ARMOR", "value": 149 },
+        { "property": "HULL_SPEED", "value": 12.20 },
+        { "property": "HULL_TURN_SPEED", "value": 129.6 },
+        { "property": "HULL_MASS", "value": 1901 },
+        {
+          "property": "HULL_POWER",
+          "properties": [
+            { "property": "HULL_ACCELERATION", "value": 11 }
+          ]
+        }
+      ],
+
+      "physics": {
+        "speed": 18.0,
+        "turnSpeed": 2.6179938,
+        "acceleration": 18.0,
+        "reverseAcceleration": 17,
+        "sideAcceleration": 24,
+        "turnAcceleration": 3.4906585,
+        "reverseTurnAcceleration": 6.4577184,
+        "damping": 900,
+        "mass": 2200,
+        "power": 18.0
+      }
+    },
+    "3": {
+      "previewResourceId": 1000009,
+      "object3ds": 1000010,
+
+      "rank": 24,
+      "price": 200000,
+
+      "properties": [
+        { "property": "HULL_ARMOR", "value": 180 },
+        { "property": "HULL_SPEED", "value": 13.00 },
+        { "property": "HULL_TURN_SPEED", "value": 150 },
+        { "property": "HULL_MASS", "value": 2200 },
+        {
+          "property": "HULL_POWER",
+          "properties": [
+            { "property": "HULL_ACCELERATION", "value": 13 }
+          ]
+        }
+      ],
+
+      "physics": {
+        "speed": 18.0,
+        "turnSpeed": 2.6179938,
+        "acceleration": 18.0,
+        "reverseAcceleration": 17,
+        "sideAcceleration": 24,
+        "turnAcceleration": 3.4906585,
+        "reverseTurnAcceleration": 6.4577184,
+        "damping": 900,
+        "mass": 2200,
+        "power": 18.0
+      }
+    }
+  }
+}

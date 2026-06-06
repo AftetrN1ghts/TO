@@ -1,8 +1,0 @@
-			{
-				"prizes": ["Кристаллы × 5000"],
-                "prizesId": ["CRYSTALLS"],
-			    "prizesCount": [5000],
-				"target_progress": 6000,
-				"description": "Получи очки в режиме TDM",
-				"id": "gainBattleScoresInTDM"
-			}

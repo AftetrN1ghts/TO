@@ -1,8 +1,0 @@
-			{
-				"prizes": ["Красная молния (Краска) × 1"],
-                "prizesId": ["redl"],
-			    "prizesCount": [1],
-				"target_progress": 50000,
-				"description": "Заработай опыт",
-				"id": "gainScore"
-			}

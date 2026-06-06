@@ -1,8 +1,0 @@
-			{
-				"prizes": ["Кристаллы × 3540"],
-                "prizesId": ["CRYSTALLS"],
-			    "prizesCount": [3540],
-				"target_progress": 42,
-				"description": "Доставь флаг",
-				"id": "captureTheFlag"
-			}

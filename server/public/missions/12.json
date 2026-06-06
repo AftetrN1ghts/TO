@@ -1,8 +1,0 @@
-			{
-				"prizes": ["Кристаллы × 3000"],
-                "prizesId": ["CRYSTALLS"],
-			    "prizesCount": [3000],
-				"target_progress": 3000,
-				"description": "Получи очки в режиме CTF",
-				"id": "gainBattleScoresInCTF"
-			}

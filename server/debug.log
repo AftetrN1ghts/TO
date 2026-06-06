@@ -1,2 +1,0 @@
-receive: lobby_chat;ауу;true;NULL
-send: lobby_chat;{"rangTo":0,"addressed":true,"system":false,"name":"Admin","yellow":false,"nameTo":"NULL","message":"ауу","rang":22,"chatPermissions":1}

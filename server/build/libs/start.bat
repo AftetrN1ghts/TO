@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF8 -server -jar protanki-server-0.1.0-all.jar
